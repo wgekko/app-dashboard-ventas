@@ -78,6 +78,7 @@ El núcleo de la aplicación se encuentra en el dashboard, donde se despliegan d
 - **ML Algorithms: Regresión, KMeans, MBA**
 
 ---
+IMPORTANTE : adjunto una carpeta llamada streamlit .. deben crear dentro del proyecto una carpeta con punto adelante  .streamlit con el archivo config que esta dentro de la carpeta streamlit adjuntada.
 
 ## ▶️ Cómo Ejecutar la Aplicación
 
