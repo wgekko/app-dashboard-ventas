@@ -83,5 +83,5 @@ El núcleo de la aplicación se encuentra en el dashboard, donde se despliegan d
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/gekko/app-dashboard-ventas
    cd tu_repositorio
