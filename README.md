@@ -97,4 +97,17 @@ IMPORTANTE : adjunto una carpeta llamada streamlit .. deben crear dentro del pro
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/gekko/app-dashboard-ventas
-   cd tu_repositorio
+   cd tu_r
+
+video demo 
+
+
+
+https://github.com/user-attachments/assets/a7f74684-251a-4249-adc7-757fc9464352
+
+
+
+
+
+
+   epositorio
