@@ -2,6 +2,18 @@
 
 Esta aplicación web interactiva fue desarrollada en **Python** utilizando el framework **Streamlit**. Su objetivo es facilitar el análisis de datos de ventas mediante un enfoque visual, intuitivo y técnico, con soporte para modelos de predicción, análisis de productos y exploración de patrones de consumo.
 
+fuente de codigo que se usaron de base para diseñar esta app
+link de apoyo para desarrollo app
+video de pagina 
+https://www.youtube.com/watch?v=rOYRydSt77c
+app page
+https://codepen.io/filipz/pen/GgpMOEq
+access page
+https://codepen.io/RAFA3L/pen/yyYzprN
+exit page
+https://codepen.io/webitia/pen/jOpZawK
+
+
 ##  Descripción General
 
 La aplicación se estructura en diferentes páginas, cada una con una función específica:
