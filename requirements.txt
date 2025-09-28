@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+bumplot
+matplotlib
+statsmodels
+pandas_ta
+scikit-learn
+mlxtend
